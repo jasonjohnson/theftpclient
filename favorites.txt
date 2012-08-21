@@ -1,0 +1,4 @@
+FTP	ftp.wxwidgets.org	anonymous	anonymous
+FTP	ftp.ubuntu.com	anonymous	anonymous
+FTP	ftp.debian.org	anonymous	anonymous
+FTP	ftp.openbsd.org	anonymous	anonymous
